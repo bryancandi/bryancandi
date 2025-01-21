@@ -1,4 +1,4 @@
-<div align="center"><h1>Hi there, I'm Bryan! 👋</h1></div>
+<div align="center"><h1>Welcome! 👋</h1></div>
 <br>
 <div align="center"><img src="https://img.shields.io/badge/Android_Development-brightgreen?style=flat" /> <img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
 <br>
