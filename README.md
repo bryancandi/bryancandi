@@ -1,6 +1,25 @@
-## Hi there, I'm Bryan! 👋
+<div align="center"><h1>Hi there, I'm Bryan! 👋</h1></div>
+<br>
+<div align="center"><img src="https://img.shields.io/badge/Android_Development-brightgreen?style=flat" /> <img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
+<br>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views" /></div>
 
-![](https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views)
+##
+
+<h3>Android Applications</h3>
+<a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a>
+
+##
+
+<h3>Windows Applications</h3>
+<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a>
+
+##
+
+<h3>Linux BASH Scripts</h3>
+<a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a>
+<a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a>
+<a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a>
 
 <!--
 **bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
