@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Bryan! 👋
+
+![](https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views)
 
 <!--
 **bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
