@@ -16,7 +16,7 @@
 
 ##
 
-<h3>Linux BASH Scripts</h3>
+<h3>Linux Shell Scripts</h3>
 <a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a>
 <a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a>
 <a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a>
