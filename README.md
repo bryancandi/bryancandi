@@ -21,10 +21,6 @@
 <a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a>
 <a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a>
 
-##
-<br>
-<div align="center"><img src="https://streak-stats.demolab.com/?user=bryancandi&theme=nightfox" alt="GitHub Streak"/></div>
-
 <!--
 **bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
