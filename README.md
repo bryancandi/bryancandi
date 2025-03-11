@@ -2,7 +2,7 @@
 <br>
 <div align="center"><img src="https://img.shields.io/badge/Android_Development-brightgreen?style=flat" /> <img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
 <br>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=red&style=flat&label=Profile+Views" /></div>
 
 ##
 
