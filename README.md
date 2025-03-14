@@ -13,6 +13,8 @@
 
 <h3>Windows Applications</h3>
 <a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a>
+<br>
+<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a>
 
 ##
 
