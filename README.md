@@ -10,27 +10,27 @@
 
 <h3>Android Applications</h3>
 <ul>
-  <li><a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a> ✨</li>
-  <li><a href="https://github.com/bryancandi/AndroidUpdateAssistant">Android Update Assistant</a> 📱</li>
-  <li><a href="https://github.com/bryancandi/SystemUITuner">System UI Tuner</a> 🔧</li>
-  <li><a href="https://github.com/bryancandi/LinuxKernelDocs">Linux Kernel Documentation</a> 🐧</li>
+  <li>✨&nbsp;&nbsp;<a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a></li>
+  <li>📱&nbsp;&nbsp;<a href="https://github.com/bryancandi/AndroidUpdateAssistant">Android Update Assistant</a></li>
+  <li>🔧&nbsp;&nbsp;<a href="https://github.com/bryancandi/SystemUITuner">System UI Tuner</a></li>
+  <li>🐧&nbsp;&nbsp;<a href="https://github.com/bryancandi/LinuxKernelDocs">Linux Kernel Documentation</a></li>
 </ul>
 
 ##
 
 <h3>Windows Applications</h3>
 <ul>
-  <li><a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a> ✨</li>
-  <li><a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a> 🪟</li>
+  <li>✨&nbsp;&nbsp;<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a></li>
+  <li>🪟&nbsp;&nbsp;<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a></li>
 </ul>
 
 ##
 
 <h3>Linux Shell Scripts</h3>
 <ul>
-  <li><a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a> 🖥️</li>
-  <li><a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a> 💻</li>
-  <li><a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a> 🔌</li>
+  <li>🖥️&nbsp;&nbsp;<a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a></li>
+  <li>💻&nbsp;&nbsp;<a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a></li>
+  <li>🔌&nbsp;&nbsp;<a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a></li>
 </ul>
 
 <!--
