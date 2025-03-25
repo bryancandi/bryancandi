@@ -1,30 +1,37 @@
 <div align="center"><h1>Welcome! 👋</h1></div>
 <br>
-<div align="center"><img src="https://img.shields.io/badge/Android_Development-brightgreen?style=flat" /> <img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
+<div align="center"><img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /></div>
+<br>
+<div align="center"><img src="https://img.shields.io/badge/Android_Applications-brightgreen?style=flat" /> <img src ="https://img.shields.io/badge/Shell_Scripting-141414?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
 <br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
 ##
 
 <h3>Android Applications</h3>
-<a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a>
+<ul>
+<li><a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a> ✨</li>
+<li><a href="https://github.com/bryancandi/AndroidUpdateAssistant">Android Update Assistant</a></li>
+<li><a href="https://github.com/bryancandi/SystemUITuner">System UI Tuner</a></li>
+<li><a href="https://github.com/bryancandi/LinuxKernelDocs">Linux Kernel Documentation</a></li>
+</ul>
 
 ##
 
 <h3>Windows Applications</h3>
-<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a>
-<br>
-<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a>
+<ul>
+<li><a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a> ✨</li>
+<li><a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a></li>
+</ul>
 
 ##
 
 <h3>Linux Shell Scripts</h3>
-<a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a>
-<br>
-<a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a>
-<br>
-<a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a>
-<br>
+<ul>
+<li><a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a></li>
+<li><a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a></li>
+<li><a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a></li>
+</ul>
 
 <!--
 **bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
