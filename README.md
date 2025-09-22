@@ -2,7 +2,7 @@
 <br>
 <div align="center"><img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /></div>
 <br>
-<div align="center"><img src="https://img.shields.io/badge/Android_Applications-brightgreen?style=flat" /> <img src ="https://img.shields.io/badge/Shell_Scripting-141414?style=flat" /> <img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /></div>
+<div align="center"><img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /> <img src ="https://img.shields.io/badge/Shell_Scripting-141414?style=flat" /> <img src="https://img.shields.io/badge/Android_Applications-brightgreen?style=flat" /></div>
 <br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
@@ -18,9 +18,11 @@
 
 ##
 
-<h3>Windows Applications</h3>
+<h3>Desktop Applications</h3>
 <ul>
-  <li>✨&nbsp;&nbsp;<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a></li>
+  <li>✨&nbsp;&nbsp;<a href="https://apps.microsoft.com/search/publisher?name=High+Desert+Computing">Microsoft Store</a></li>
+  <li>⌨️&nbsp;&nbsp;<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a></li>
+  <li>🛜&nbsp;&nbsp;<a href="https://apps.microsoft.com/detail/9pftd37s2l0l">Bandwidth Calculator</a></li>
   <li>🪟&nbsp;&nbsp;<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a></li>
 </ul>
 
