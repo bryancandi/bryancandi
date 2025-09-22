@@ -33,6 +33,7 @@
   <li>🖥️&nbsp;&nbsp;<a href="https://github.com/bryancandi/bcpuinfo">bcpuinfo</a></li>
   <li>💻&nbsp;&nbsp;<a href="https://github.com/bryancandi/bthinkfo">bthinkfo</a></li>
   <li>🔌&nbsp;&nbsp;<a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a></li>
+  <li>🐧&nbsp;&nbsp;<a href="https://github.com/bryancandi/linux-scripts">Other Scripts</a></li>
 </ul>
 
 <!--
