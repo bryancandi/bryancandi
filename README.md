@@ -21,8 +21,8 @@
 <h3>Desktop Applications</h3>
 <ul>
   <li>✨&nbsp;&nbsp;<a href="https://apps.microsoft.com/search/publisher?name=High+Desert+Computing">Microsoft Store</a></li>
+  <li>🛜&nbsp;&nbsp;<a href="https://apps.microsoft.com/detail/9pftd37s2l0l">Bandwidth Calculator</a> <em>— temporarily unavailable</em></li>
   <li>⌨️&nbsp;&nbsp;<a href="https://github.com/bryancandi/WinGet-Releases">WinGet Releases</a></li>
-  <li>🛜&nbsp;&nbsp;<a href="https://apps.microsoft.com/detail/9pftd37s2l0l">Bandwidth Calculator</a></li>
   <li>🪟&nbsp;&nbsp;<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a></li>
 </ul>
 
