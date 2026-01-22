@@ -1,4 +1,6 @@
 <div align="center"><h1>Welcome! 👋</h1></div>
+
+<!--
 <br>
 <div align="center"><img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /></div>
 <br>
@@ -7,6 +9,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
 ##
+-->
 
 <h3>Android Applications</h3>
 <ul>
@@ -35,6 +38,18 @@
   <li>🔌&nbsp;&nbsp;<a href="https://github.com/bryancandi/bintelpwr">bintelpwr</a></li>
   <li>🐧&nbsp;&nbsp;<a href="https://github.com/bryancandi/linux-scripts">Other Scripts</a></li>
 </ul>
+
+##
+
+<h3>Programming Samples</h3>
+<ul>
+  <li>🧩&nbsp;&nbsp;<a href="https://github.com/bryancandi/C-samples">C Programming Language</a></li>
+  <li>🧬&nbsp;&nbsp;<a href="https://github.com/bryancandi/x86-64-assembly">x86-64 Assembly</a></li>
+</ul>
+
+##
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
 <!--
 **bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
