@@ -50,10 +50,10 @@
 ##
 
 <p align="center">
-  <a href="https://github.com/bryancandi/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight#gh-dark-mode-only" />
   </a>
-  <a href="https://github.com/bryancandi/github-readme-stats#gh-light-mode-only">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default#gh-light-mode-only" />
   </a>
 </p>
