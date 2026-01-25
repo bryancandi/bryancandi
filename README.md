@@ -49,11 +49,15 @@
 
 ##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight" #gh-dark-mode-only />
-  <img rc="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default" #gh-light-mode-only />
-</div>
-<br>
+<p align="center">
+  <a href="https://github.com/bryancandi/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/bryancandi/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default#gh-light-mode-only" />
+  </a>
+</p>
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
 <!--
