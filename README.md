@@ -49,7 +49,11 @@
 
 ##
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=dark" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight" #gh-dark-mode-only />
+  <img rc="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default" #gh-light-mode-only />
+</div>
+<br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
 
 <!--
