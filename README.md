@@ -56,6 +56,8 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=default#gh-light-mode-only" />
   </a>
+  <br>
+  <sub><em>Stats for public repos only</em></sub>
 </p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
