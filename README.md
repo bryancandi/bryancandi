@@ -1,16 +1,5 @@
 <div align="center"><h1>Welcome! ☕</h1></div>
 
-<!--
-<br>
-<div align="center"><img src="https://img.shields.io/badge/Focus-Utilities-orange?style=flat" /></div>
-<br>
-<div align="center"><img src ="https://img.shields.io/badge/Desktop_Applications-blue?style=flat" /> <img src ="https://img.shields.io/badge/Shell_Scripting-141414?style=flat" /> <img src="https://img.shields.io/badge/Android_Applications-brightgreen?style=flat" /></div>
-<br>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
-
-##
--->
-
 <h3>Android Applications</h3>
 <ul>
   <li>✨&nbsp;&nbsp;<a href="https://play.google.com/store/apps/dev?id=5180384152101978531">Google Play Store</a></li>
@@ -60,19 +49,4 @@
   <sub><em>Stats for public repos only</em></sub>
 </p>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat&label=Profile+Views" /></div>
-
-<!--
-**bryancandi/bryancandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat-square&label=Profile+Views" /></div>
