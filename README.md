@@ -37,7 +37,7 @@
 </ul>
 
 ##
-
+<!--
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryancandi&layout=compact&theme=tokyonight#gh-dark-mode-only" />
@@ -48,5 +48,6 @@
   <br>
   <sub><em>Stats for public repos only</em></sub>
 </p>
+-->
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat-square&label=Profile+Views" /></div>
