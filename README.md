@@ -35,7 +35,7 @@
 
 <h3>Programming Samples</h3>
 <ul>
-  <li>🧩&nbsp;&nbsp;<a href="https://github.com/bryancandi/C-samples">C Programming Language</a></li>
+  <li>⚙️&nbsp;&nbsp;<a href="https://github.com/bryancandi/C-samples">C Programming Language</a></li>
   <li>🧬&nbsp;&nbsp;<a href="https://github.com/bryancandi/x86-64-assembly">x86-64 Assembly</a></li>
 </ul>
 
