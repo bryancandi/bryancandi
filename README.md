@@ -14,8 +14,8 @@
 
 <h3>Command-Line Applications</h3>
 <ul>
-  <li>🔍&nbsp;&nbsp;<a href="https://github.com/bryancandi/asmfetch">Asmfetch</a></li>
   <li>⏰&nbsp;&nbsp;<a href="https://github.com/bryancandi/ALARM64">ALARM64</a></li>
+  <li>🔍&nbsp;&nbsp;<a href="https://github.com/bryancandi/asmfetch">Asmfetch</a></li>
   <li>🌐&nbsp;&nbsp;<a href="https://github.com/bryancandi/WinDL">WinDL</a></li>
   <li>🪟&nbsp;&nbsp;<a href="https://github.com/bryancandi/WInfoCli">WInfoCli</a></li>
 </ul>
@@ -50,5 +50,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=008b8b&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views"/>
 </div>
