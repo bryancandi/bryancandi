@@ -50,5 +50,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=flat&label=Visitors"/>
 </div>
