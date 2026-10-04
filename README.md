@@ -50,5 +50,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=blue&style=for-the-badge&label=Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=bryancandi&color=brightgreen&style=flat&label=Profile+visits"/>
 </div>
